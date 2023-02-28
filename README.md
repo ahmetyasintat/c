@@ -9,5 +9,5 @@ Planned upgrades:
 
 
 ###
-This is a work in progress. The quotes are fed from b,nance server. If you're looking for a more robust solution,
+This is a work in progress. The quotes are fed from binance server. If you're looking for a more robust solution,
 feel free to email me at ahmet.yasin.ta@gmail.com I'll be happy to help you out.
