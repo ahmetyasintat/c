@@ -54,6 +54,6 @@ async def main():
             time.sleep(1)
 
 
-loop = asyncio.get_event_loop()
+loop = asyncio.set_event_loop()
 future = asyncio.ensure_future(main())
 loop.run_until_complete(future)
